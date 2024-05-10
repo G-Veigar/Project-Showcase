@@ -78,11 +78,11 @@ function goDetail(title: string) {
   height: 100%;
 }
 
-.showcase-item:hover .showcase-desc {
+/* .showcase-item:hover .showcase-desc {
   color: #2b09ed;
 }
 
 .showcase-item:hover .img-wrapper {
   transform: scale(1.1);
-}
+} */
 </style>
