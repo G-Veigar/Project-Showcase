@@ -21,8 +21,19 @@ import vipkid03 from './assets/vipkid-03.png'
 import vipkid04 from './assets/vipkid-04.jpg'
 import vipkid05 from './assets/vipkid-05.jpg'
 import vipkid06 from './assets/vipkid-06.jpg'
+import lowCode from './assets/low-code.jpg'
 
 export const showcaseList = [
+    {
+        title: '快手-低代码',
+        img: lowCode,
+        cases: [
+            {
+                type: 'img',
+                src: lowCode
+            }
+        ]
+    },
     {
         title: '快手-周杰伦活动',
         img: ksJay01,
