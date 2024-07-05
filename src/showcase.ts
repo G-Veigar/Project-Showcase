@@ -16,11 +16,6 @@ import dd02 from './assets/dd-02.jpg'
 import dd03 from './assets/dd-03.jpg'
 import dd04 from './assets/dd-04.jpg'
 import dd05 from './assets/dd-05.jpg'
-import vipkid02 from './assets/vipkid-02.jpg'
-import vipkid03 from './assets/vipkid-03.png'
-import vipkid04 from './assets/vipkid-04.jpg'
-import vipkid05 from './assets/vipkid-05.jpg'
-import vipkid06 from './assets/vipkid-06.jpg'
 import lowCode from './assets/low-code.jpg'
 
 export const showcaseList = [
@@ -115,36 +110,6 @@ export const showcaseList = [
             {
                 type: 'img',
                 src: dd04
-            }
-        ]
-    },
-    {
-        title: 'VIPKID-聚福利',
-        img: vipkid01,
-        cases: [
-            {
-                type: 'img',
-                src: vipkid01
-            },
-            {
-                type: 'img',
-                src: vipkid02
-            },
-            {
-                type: 'img',
-                src: vipkid03
-            },
-            {
-                type: 'img',
-                src: vipkid04
-            },
-            {
-                type: 'img',
-                src: vipkid05
-            },
-            {
-                type: 'img',
-                src: vipkid06
             }
         ]
     },
